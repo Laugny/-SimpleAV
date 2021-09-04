@@ -1,0 +1,10 @@
+V:\repos\Simple AV\Simple AV\bin\Debug\Simple AV.exe.config
+V:\repos\Simple AV\Simple AV\bin\Debug\Simple AV.exe
+V:\repos\Simple AV\Simple AV\bin\Debug\Simple AV.pdb
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple AV.csprojAssemblyReference.cache
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple_AV.Form1.resources
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple_AV.Properties.Resources.resources
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple AV.csproj.GenerateResource.cache
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple AV.csproj.CoreCompileInputs.cache
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple AV.exe
+V:\repos\Simple AV\Simple AV\obj\Debug\Simple AV.pdb
